@@ -30,6 +30,15 @@ A simple PHP & MySQL blog application with user authentication, categories, post
 
 5. **Run the project:**
    - Access `index.php` in your browser via your local server (e.g., XAMPP, WAMP, or LAMP).
+   - **Typical local URL:**  
+     ```
+     http://localhost/blogpost/
+     ```
+   - For login/register:  
+     ```
+     http://localhost/blogpost/login.php
+     http://localhost/blogpost/register.php
+     ```
 
 ## Usage
 
